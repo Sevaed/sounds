@@ -1,3 +1,6 @@
+> [!WARNING]
+> Readme AIsloped, code iirc not
+
 # 🔊 Simple Sound Player
 
 This is a lightweight Python script to play `.mp3` sound files using `ffplay` (from the FFmpeg suite). It's useful for quick access to short audio clips via the terminal.
